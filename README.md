@@ -26,3 +26,5 @@ Real-Time Translation: Extracted chronometric data from blink durations (short/l
 Tech Stack: Python, Keras, TensorFlow, OpenCV.
 Feel free to review the code and share your feedback!
 Author: Mustafa Alpergün
+
+data: https://www.kaggle.com/datasets/imadeddinedjerarda/mrl-eye-dataset/suggestions
